@@ -40,7 +40,7 @@ else if( condition2 )
 ```
 if( condition1 )
 {
-  if( condition )
+  if( condition2 )
   {
     // do something if both condition1 and condition2 are true
   }
