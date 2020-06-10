@@ -114,8 +114,6 @@ boolean answer = isEven(705);   // invoke the isEven method and stores its respo
 System.out.println( answer );   // output the value of the answer variable to the console
 ```
 
-When you run this code it will call the hello method and output the results. Since the hello method is being passed the value "World" you should expect the answer to be "Hello World" (see the comment of the hello method). When you run this program you should look at the output and verify that it is correct! If it is not correct, then the method is not correct and you should keep working on it.
-
 You should write code in the main method to test each method as you write it. Follow this pattern:
 
 * Call the method you want to test and store its return value in a variable
